@@ -27,14 +27,3 @@ li a:hover {
      color: rgb(0,255,128);
      font-family: Serif;
 }
-
-.row{
-    padding: 50px;
-    border-style: solid;
-    border-radius:20px;
-}
-.card{
-    padding: 50px;
-    border-style: solid;
-    border-radius:20px;
-}
