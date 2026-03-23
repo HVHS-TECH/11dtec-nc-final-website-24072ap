@@ -26,4 +26,7 @@ li a:hover {
      background-color: black;
      color: rgb(0,255,128);
      font-family: Serif;
-}
+ }
+ .main{
+  text-align: right;
+ }
