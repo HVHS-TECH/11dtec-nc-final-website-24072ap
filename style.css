@@ -23,9 +23,10 @@ li a:hover {
 }
 
  body{
-     background-color: black;
-     color: rgb(0,255,128);
-     font-family: Serif;
+     margin: 0;
+     height: 100vh;
+     display: flex;
+     
  }
  .main{
   text-align: center;
