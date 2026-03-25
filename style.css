@@ -28,7 +28,9 @@ li a:hover {
      font-family: Serif;
  }
  .main{
-  text-align: right;
+  text-align: center;
+  width: 200px;
+  border: 15px greenyellow;
   padding: 30px;
   margin: 20px;
  }
