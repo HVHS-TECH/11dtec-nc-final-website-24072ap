@@ -23,11 +23,6 @@ li a:hover {
 }
 
  body{
-     margin: 0;
-     height: 100vh;
-     display: flex;
-     justify-content: center;
-     align-items: center;
      background-color: black;
      color: rgb(0,255,128);
      font-family: Serif;
