@@ -47,11 +47,10 @@ li a:hover {
   right: 20px;
   transform: translateY(-10%);
   z-index: 999;
-  
  }
  .img3{
   position: fixed;
-  top: 50%
+  top: 50%;
   left: 50%;
   transform: translateY(-50%, -50%);
   z-index: 999;
