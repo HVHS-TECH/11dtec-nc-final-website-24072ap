@@ -51,4 +51,10 @@ li a:hover {
   z-index: 999;
   
  }
- 
+ .img3{
+  position: fixed;
+  top:40%
+  center: 20px;
+  transform: translateY(-10%)
+  z-index: 999;
+ }
