@@ -38,8 +38,10 @@ li a:hover {
  }
  .floating-img{
   position: fixed;
-  top: 20px;
-  z-index: 899;
+  top: 40%;
+  left: 20px;
+  transform: translateY(-50%)
+  z-index: 999;
  }
  .img2{
   text-align: center;
