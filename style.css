@@ -54,8 +54,7 @@ li a:hover {
  .img3{
   position: fixed;
   top:40%
-  center: 20px;
-  transform: translateY(-10%)
-  width: 200px;
+  left: 20px;
+  transform: translateY(-50%)
   z-index: 999;
  }
