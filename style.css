@@ -56,5 +56,6 @@ li a:hover {
   top:40%
   center: 20px;
   transform: translateY(-10%)
+  width: 200px;
   z-index: 999;
  }
