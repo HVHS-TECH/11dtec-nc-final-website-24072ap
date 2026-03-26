@@ -34,7 +34,10 @@ li a:hover {
   padding: 40px
  }
  .container{
-  text-align: center;
+  position: relative;
+ }
+ .floating-img{
+  
  }
  .img2{
   text-align: center;
