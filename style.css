@@ -39,7 +39,7 @@ li a:hover {
  .floating-img{
   position: fixed;
   top: 20px;
-  z-index: 999;
+  z-index: 899;
  }
  .img2{
   text-align: center;
