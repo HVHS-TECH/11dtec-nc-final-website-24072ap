@@ -37,7 +37,9 @@ li a:hover {
   position: relative;
  }
  .floating-img{
-  
+  position: fixed;
+  top: 20px;
+  z-index: 999;
  }
  .img2{
   text-align: center;
