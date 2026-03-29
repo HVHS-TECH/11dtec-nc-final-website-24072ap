@@ -61,3 +61,10 @@ li a:hover {
   left: 50%;
   transform: translateY(-50%, -50%)
  }
+ .img5{
+  position: fixed;
+  top: 40%;
+  left: 30%;
+  transform: translateY(-50%, -50%)
+  z-index: 999;
+ }
