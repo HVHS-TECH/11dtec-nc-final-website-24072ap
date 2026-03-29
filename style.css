@@ -57,8 +57,7 @@ li a:hover {
  }
  .img4{
   position: fixed;
-  top: 60%;
+  top: 20%;
   left: 50%;
   transform: translateY(-50%, -50%)
-  z-index: 999;
  }
