@@ -66,12 +66,12 @@ li a:hover {
   top: 40%;
   left: 30%;
   transform: translateY(-50%, -50%)
-  z-index: 999;
+
  }
  .footer{
    position: fixed;
   top: 80%;
   left: 30%;
   transform: translateY(-50%, -50%)
-  z-index: 999;
+
  }
