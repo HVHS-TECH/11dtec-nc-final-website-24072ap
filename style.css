@@ -61,14 +61,14 @@ li a:hover {
   position: fixed;
   top: 20%;
   left: 50%;
-  transform: translate(-50%, -50%)
- 
+  transform: translate(-50%, -50%);
+  z-index: 0;
  }
  .img5{
   position: fixed;
   top: 40%;
   left: 30%;
-  transform: translate(-50%, -50%)
+  transform: translate(-50%, -50%);
   z-index: 0;
  }
  .footer{
