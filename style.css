@@ -38,34 +38,34 @@ li a:hover {
   position: fixed;
   top: 50%;
   left: 20%;
-  transform: translateY(-50%);
+  transform: translate(-50%);
   z-index: 999;
  }
  .img2{
   position: fixed;
   top: 20%;
   right: 20%;
-  transform: translateY(-10%);
+  transform: translate(-10%);
   z-index: 999;
  }
  .img3{
   position: fixed;
   top: 40%;
   left: 70%;
-  transform: translateY(-50%, -50%);
+  transform: translate(-50%, -50%);
   z-index: 999;
  }
  .img4{
   position: fixed;
   top: 20%;
   left: 50%;
-  transform: translateY(-50%, -50%)
+  transform: translate(-50%, -50%)
  }
  .img5{
   position: fixed;
   top: 40%;
   left: 30%;
-  transform: translateY(-50%, -50%)
+  transform: translate(-50%, -50%)
 
  }
  .footer{
@@ -74,6 +74,16 @@ li a:hover {
   left: 0;
   width: 100%;
  }
+ img {
+  width: 200px;
+  max-width: 20vw;
+  height: auto;
+ }
+ @media (max-width: 900px) {
+  img {
+    max-width: 30vw;
+  }
+ }
  
- max-width: 1200px;
+
  
