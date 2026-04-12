@@ -39,28 +39,28 @@ li a:hover {
  
  .floating-img{
   position: fixed;
-  top: 50%;
+  top: 30%;
   left: 5%;
   transform: translateY(-50%);
   z-index: 0;
  }
  .img2{
   position: fixed;
-  top: 15%;
+  top: 75%;
   right: 5%;
   z-index: 0;
  }
  .img3{
   position: fixed;
-  top: 50%;
-  left: 85%;
+  top: 30%;
+  left: 90%;
   transform: translate(-50%, -50%);
   z-index: 0;
  }
  .img4{
   position: fixed;
-  top: 5%;
-  left: 50%;
+  top: 75%;
+  left: 70%;
   transform: translateX(-50%);
   z-index: 0;
  }
