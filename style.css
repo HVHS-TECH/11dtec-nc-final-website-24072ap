@@ -26,6 +26,7 @@ li a:hover {
      background-color: black;
      color: rgb(0,255,128);
      font-family: Serif;
+     overflow-x: hidden;
  }
  .main{
  position: relative;
@@ -40,7 +41,7 @@ li a:hover {
   position: fixed;
   top: 50%;
   left: 5%;
-  transform: translate(-50%);
+  transform: translateY(-50%);
   z-index: 0;
  }
  .img2{
@@ -86,6 +87,7 @@ li a:hover {
     max-width: 30vw;
   }
  }
+ 
  
 
  
