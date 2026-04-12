@@ -37,14 +37,14 @@ li a:hover {
  .floating-img{
   position: fixed;
   top: 50%;
-  left: 20px;
+  left: 20%;
   transform: translateY(-50%);
   z-index: 999;
  }
  .img2{
   position: fixed;
   top: 20%;
-  right: 20px;
+  right: 20%;
   transform: translateY(-10%);
   z-index: 999;
  }
