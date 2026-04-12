@@ -59,7 +59,7 @@ li a:hover {
  }
  .img4{
   position: fixed;
-  top: 75%;
+  top: 65%;
   left: 70%;
   transform: translateX(-50%);
   z-index: 0;
@@ -67,7 +67,7 @@ li a:hover {
  .img5{
   position: fixed;
   top: 80%;
-  left: 25%;
+  left: 50%;
   transform: translate(-50%, -50%);
   z-index: 0;
  }
