@@ -94,15 +94,23 @@ li a:hover {
  .gimg2 {
  position: fixed;
   top: 80%;
-  left: 50%;
+  left: 80%;
   transform: translate(-50%, -50%);
   z-index: 0;
  }
  .gimg3 {
-
+position: fixed;
+  top: 60%;
+  left: 80%;
+  transform: translate(-50%, -50%);
+  z-index: 0;
  }
  .gimg4 {
-
+position: fixed;
+  top: 70%;
+  left: 80%;
+  transform: translate(-50%, -50%);
+  z-index: 0;
  }
 
  
