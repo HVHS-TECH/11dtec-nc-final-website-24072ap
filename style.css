@@ -92,13 +92,17 @@ li a:hover {
   text-align: center;
  }
  .gimg2 {
-
+ position: fixed;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 0;
  }
  .gimg3 {
 
  }
  .gimg4 {
-  
+
  }
 
  
