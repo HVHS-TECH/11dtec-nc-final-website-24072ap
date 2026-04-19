@@ -123,4 +123,50 @@ position: fixed;
  .main3{
   text-align: center;
  }
+
+ .pimg2{
+  position: fixed;
+  top: 50%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+  z-index: 0;
+ }
+
+ .pimg3{
+  position: fixed;
+  top: 70%;
+  left: 90%;
+  transform: translate(-50%, -50%);
+  z-index: 0;
+ }
  
+ .pimg4{
+  position: fixed;
+  top: 90%;
+  left: 60%;
+  transform: translate(-50%, -50%);
+  z-index: 0;
+ }
+
+ .main4{
+  text-align: center;
+ }
+
+ .image-row {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+ }
+
+ .image-row img{
+  width: 200px;
+ }
+
+.footer4{
+  text-align: left;
+  display: flex;
+  justify-content: flex-end;
+  gap: 230px;
+}
+ 
+
