@@ -169,4 +169,6 @@ position: fixed;
   gap: 230px;
 }
  
-
+.stars{
+  text-align: center;
+}
