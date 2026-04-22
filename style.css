@@ -172,3 +172,9 @@ position: fixed;
 .stars{
   text-align: center;
 }
+
+.simg5{
+  position: fixed;
+  top: 40%;
+  left: 25%;
+}
