@@ -44,27 +44,27 @@ li a:hover {
   transform: translateY(-50%);
   z-index: 0;
  }
- .img2{
+ .himg2{
   position: fixed;
   top: 75%;
   right: 5%;
   z-index: 0;
  }
- .img3{
+ .himg3{
   position: fixed;
   top: 30%;
   left: 90%;
   transform: translate(-50%, -50%);
   z-index: 0;
  }
- .img4{
+ .himg4{
   position: fixed;
   top: 65%;
   left: 70%;
   transform: translateX(-50%);
   z-index: 0;
  }
- .img5{
+ .himg5{
   position: fixed;
   top: 80%;
   left: 50%;
